@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactagecalculator/static/css/main.6a14a0f0.css",
+    "main.js": "/reactagecalculator/static/js/main.c6a3baef.js",
+    "index.html": "/reactagecalculator/index.html",
+    "main.6a14a0f0.css.map": "/reactagecalculator/static/css/main.6a14a0f0.css.map",
+    "main.c6a3baef.js.map": "/reactagecalculator/static/js/main.c6a3baef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a14a0f0.css",
+    "static/js/main.c6a3baef.js"
+  ]
+}
